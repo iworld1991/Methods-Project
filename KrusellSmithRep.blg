@@ -1,0 +1,83 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: KrusellSmithRep.aux
+The style file: ./texmf-local/bibtex/bst/econtex.bst
+This database file appears more than once: KrusellSmithRep.bib
+---line 230 of file KrusellSmithRep.aux
+ : \bibdata{KrusellSmithRep,KrusellSmithRep
+ :                                         ,KrusellSmithRep-Add}
+I'm skipping whatever remains of this command
+Database file #1: KrusellSmithRep.bib
+Warning--I didn't find a database entry for "modigliani&brumberg:lifecycle"
+Warning--I didn't find a database entry for "friedmanATheory"
+Warning--I didn't find a database entry for "schectman&escudero:results"
+Warning--I didn't find a database entry for "bewleyPIH"
+Warning--I didn't find a database entry for "slpMethods"
+Warning--I didn't find a database entry for "mnUnique"
+Warning--I didn't find a database entry for "zeldesStochastic"
+Warning--I didn't find a database entry for "carroll:brookings"
+Warning--I didn't find a database entry for "carroll:bslcpih"
+Warning--I didn't find a database entry for "gpLifeCycle"
+Warning--I didn't find a database entry for "cagettiWprofiles"
+Warning--I didn't find a database entry for "deatonLiqConstr"
+Warning--I didn't find a database entry for "szeidlInvariant"
+Warning--I didn't find a database entry for "deatonUnderstandingC"
+Warning--I didn't find a database entry for "macurdy:timeseries"
+Warning--I didn't find a database entry for "acCovariance"
+Warning--I didn't find a database entry for "carroll&samwick:nature"
+Warning--I didn't find a database entry for "jappelli&pistaferri:cins"
+Warning--I didn't find a database entry for "sty:consumption"
+Warning--I didn't find a database entry for "blpRisk"
+Warning--I didn't find a database entry for "muthOptimal"
+Warning--I didn't find a database entry for "scheinkman&weiss:borrowing"
+Warning--I didn't find a database entry for "clarida:ergodic"
+Warning--I didn't find a database entry for "toche:urisk"
+Warning--I didn't find a database entry for "ramsey:save"
+Warning--I didn't find a database entry for "carroll&kimball:concavity"
+Warning--I didn't find a database entry for "yaoNote"
+Warning--I didn't find a database entry for "jboyd:weighted"
+Warning--I didn't find a database entry for "BSinKS"
+Warning--I didn't find a database entry for "hiraguchi:bsproofs"
+Done.
+You've used 1 entry,
+            2327 wiz_defined-function locations,
+            566 strings with 4425 characters,
+and the built_in function-call counts, 549 in all, are:
+= -- 53
+> -- 27
+< -- 0
++ -- 8
+- -- 8
+* -- 48
+:= -- 103
+add.period$ -- 1
+call.type$ -- 1
+change.case$ -- 6
+chr.to.int$ -- 1
+cite$ -- 1
+duplicate$ -- 17
+empty$ -- 34
+format.name$ -- 8
+if$ -- 101
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 15
+num.names$ -- 6
+pop$ -- 4
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 36
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 11
+warning$ -- 0
+while$ -- 6
+width$ -- 0
+write$ -- 23
+(There was 1 error message)
