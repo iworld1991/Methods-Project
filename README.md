@@ -9,8 +9,8 @@
  - Model Setup
  - Algorithm 
  - Results
-  * Consumption Function
-  * Wealth Distribution 
+  1. Consumption Function
+  2. Wealth Distribution 
  - Conclusion 
   
  
